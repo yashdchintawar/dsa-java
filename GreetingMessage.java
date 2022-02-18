@@ -9,6 +9,6 @@ public class GreetingMessage {
         System.out.println("Please Enter Your Name");
         String name = in.next();
 
-        System.out.println("Hey " + name + " Welcome To The Yash Chintawar World");
+        System.out.println("Hello " + name + " Welcome To The Yash Chintawar World");
     }
 }
