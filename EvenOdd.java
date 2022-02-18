@@ -10,10 +10,10 @@ public class EvenOdd {
         int num = in.nextInt();
 
         if (num % 2 == 0){
-            System.out.println("Number " + num + " is Even ");
+            System.out.println("Number:- " + num + " is Even ");
         }
         else {
-            System.out.println("Number " + num + " is Odd ");
+            System.out.println("Number:- " + num + " is Odd ");
 
         }
 
